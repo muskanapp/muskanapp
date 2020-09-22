@@ -1,4 +1,4 @@
-**Hi,I am MUSKAN** :wave:
+**Hi,I am MUSKAN JAIN** :wave:
 
 ## I am currently a 4th year student at VIT,VELLORE
 * :seedling: I am currently learning competitive coding in C++ and Python and data science in Python :chart_with_upwards_trend:
