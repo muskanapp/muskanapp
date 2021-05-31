@@ -1,9 +1,8 @@
 **Hi,I am MUSKAN JAIN** :wave:
 
-## I am currently a 4th year student at VIT,VELLORE
-* :seedling: I am currently learning competitive coding in C++ and Python and data science in Python :chart_with_upwards_trend:
-* :briefcase: Looking for job and internship opportunities
-*  :pencil: Building small projects related to data science
+## I am currently a 4th year student at VIT,VELLORE and a project intern at Collins Aerospace
+* :seedling: I am currently learning full stack web development :chart_with_upwards_trend:
+*  :pencil: Building small projects related to data science and full-stack web development
 *  I love reading books :book: , listening to music :musical_note: and solving mathematical problems :zap:
 ### Connect with me: 
 
