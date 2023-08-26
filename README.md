@@ -6,7 +6,7 @@
 *  I love reading books :book: , listening to music :musical_note: and solving mathematical problems :zap:
 ### Connect with me: 
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/muskan-jain-8582a9169/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/_muskan___jain__/)  
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/muskan-jain-8582a9169/)
  
  ### Languages and Tools :
  
