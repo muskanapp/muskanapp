@@ -1,8 +1,8 @@
 **Hi,I am MUSKAN JAIN** :wave:
 
 ## I am currently a software engineer at Microsoft
-* :seedling: I am currently learning full stack web development :chart_with_upwards_trend:
-*  :pencil: Building small projects related to data science and full-stack web development
+* :seedling: I am currently learning React :chart_with_upwards_trend:
+*  :pencil: Building small projects related to web development
 *  I love reading books :book: , listening to music :musical_note: and solving mathematical problems :zap:
 ### Connect with me: 
 
